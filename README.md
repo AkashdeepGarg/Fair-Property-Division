@@ -1,6 +1,6 @@
 # Fair-Property-Division
 
-**Problem Statement – **
+**Problem Statement –**
 
 A father has passed away and in his will has left a number of properties to his multiple children. The only direction in the will is to divide the property as evenly as possible”.
 As the executor of the will, you have been given the value of each property. You are to decide how to divide up the property to the children to minimize the difference as much as possible.
