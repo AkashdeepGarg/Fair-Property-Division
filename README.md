@@ -35,3 +35,6 @@ Solution using recursive method:-
 10)Subtract property value by the holdings of current child. 
 11)Go to step 6 
 12)Finish
+
+
+![image](https://user-images.githubusercontent.com/82059488/169806876-8507491a-51c1-4e4d-82ee-ccab133143fe.png)
